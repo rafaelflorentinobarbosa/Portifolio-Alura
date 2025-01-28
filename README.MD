@@ -1,3 +1,5 @@
+![alt text](<pagina portifolio alura.jpg>)
+
 # Portfólio de Rafael Florentino 👨‍💻
 
 Bem-vindo ao meu portfólio! 🚀 Sou Rafael Florentino, um desenvolvedor Front-end especializado em **React**, **HTML** e **CSS**. Neste site, você pode conhecer um pouco mais sobre mim e os serviços que ofereço para ajudar o seu negócio a crescer no mundo digital! 🌐
@@ -23,6 +25,10 @@ O objetivo desse site é mostrar minhas habilidades e apresentar meus projetos. 
 
 ---
 
+## 💻 Link do Projeto
+
+Segue o link do Portifolio Alura: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Portfolio-alura/index.html)
+
 ## 📦 Como Rodar o Projeto
 
 Para rodar o projeto localmente, siga os seguintes passos:
@@ -31,3 +37,4 @@ Para rodar o projeto localmente, siga os seguintes passos:
 
 ```bash
 git clone https://github.com/rafaelflorentinobarbosa/portfolio.git
+
