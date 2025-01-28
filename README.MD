@@ -27,7 +27,7 @@ O objetivo desse site é mostrar minhas habilidades e apresentar meus projetos. 
 
 ## 💻 Link do Projeto
 
-Segue o link do Portifolio Alura: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Portfolio-alura/index.html)
+Segue o link do Portifolio Alura: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Portifolio-alura/)
 
 ## 📦 Como Rodar o Projeto
 
